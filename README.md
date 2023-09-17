@@ -10,7 +10,7 @@ notes and resources for 2511!
 ## Week 2: Inheritance, JavaDoc
 - Q1: Shapes
 - Q2: Employee
-- Q3: Access *optional
+- Q3: Access *
 
 ## Week 3: Polymorphism, Domain-modelling
 ## Week 4: Design principles, Streams, Design by contract
