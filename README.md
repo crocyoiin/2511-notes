@@ -12,7 +12,9 @@ notes and resources for 2511!
 - Q2: Employee
 - Q3: Access *
 
-## Week 3: Polymorphism, Domain-modelling
+## Week 3: Exceptions, Polymorphism, Domain-modelling
+- Q1: Wondrous
+
 ## Week 4: Design principles, Streams, Design by contract
 ## Week 5: Strategy and Observer pattern
 ## Week 7: Composite and Factory pattern
